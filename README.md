@@ -35,6 +35,7 @@
 ## 5일차
 - 파이썬 데이터분석
     - 데이터분석 - 도메인 이해
-    - pandas
-    - numpy
-    - matplotlib
+    - pandas 기본
+
+## 6일차
+-
