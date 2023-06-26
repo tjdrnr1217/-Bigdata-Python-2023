@@ -46,3 +46,8 @@
     - numpy 기본
     - matplotlib
     - seleninm
+
+## 8일차
+- 파이썬 데이터분석
+    - selenium
+    - beautifulSoup
