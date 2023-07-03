@@ -49,5 +49,5 @@
 
 ## 8일차
 - 파이썬 데이터분석
-    - selenium
+    - selenium 설치
     - beautifulSoup
